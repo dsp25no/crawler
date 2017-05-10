@@ -1,7 +1,12 @@
-#Exclude filters, targets, logs and results files
+#Exclude filters, targets, logs, results and saves files
 *.csv
 *.txt
 *.log
 *.json
+.hars.save
 #Exclude python cache files
-*__pycache__
+*__pycache__/
+#Exclude python enviroment
+.env/
+#Exception for examples directory
+!examples/*

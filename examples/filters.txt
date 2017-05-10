@@ -1,0 +1,2 @@
+#Example of filter
+google_tag_manager .*googletagmanager\.com.*
