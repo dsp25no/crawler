@@ -1,0 +1,7 @@
+#Exclude filters, targets, logs and results files
+*.csv
+*.txt
+*.log
+*.json
+#Exclude python cache files
+*__pycache__
