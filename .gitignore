@@ -1,7 +1,7 @@
 #Exclude filters, targets, logs, results and saves files
 *.csv
-*.txt
 *.log
+*.txt
 *.json
 .hars.save
 #Exclude python cache files
@@ -10,3 +10,5 @@
 .env/
 #Exception for examples directory
 !examples/*
+#Exception for requirements
+!requirements.txt
