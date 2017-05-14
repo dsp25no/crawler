@@ -40,7 +40,7 @@ def get_charset(response):
 @contextmanager
 def start_splash():
     logger.debug("Starting splash")
-    docker_cli = docker.from_env()
+    docker_cli = docker.from_env(version='auto')
     while True:
         try:
             docker_cli.ping()

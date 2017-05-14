@@ -40,8 +40,11 @@ class Target:
             targets_count += len(list[group_name])
         with click.progressbar(label="Loading targets", length=targets_count) as bar:
             for group_name in list:
-                for target in list[group_name]:
-                    result.append(vars(targets)[group_name](target))
-                    Target.logger.debug("Load %s with url %s", result[-1].name, result[-1].url)      
-                    bar.update(1)
+                if group_name in vars(targets):
+                    for target in list[group_name]:
+                        result.append(vars(targets)[group_name](target))
+                        Target.logger.debug("Load %s with url %s", result[-1].name, result[-1].url)      
+                        bar.update(1)
+                else:
+                    Target.logger.warning('Not found target class "%s", skip targets with this class', group_name)
         return result
