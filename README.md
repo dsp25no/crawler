@@ -11,7 +11,7 @@ git clone https://github.com/dsp25no/crawler.git
 cd crawler
 pip install -r requirements.txt
 ```
-- [install](http://splash.readthedocs.io/en/stable/install.html) docker with splash image
+- [install](http://splash.readthedocs.io/en/stable/install.html) docker with splash image (support docker from 1.21)
 
 ## Usage
 ```
@@ -47,8 +47,9 @@ Format of targets list:
 **_Target_class_** must inherit **_Target_** and file with code of class must be in directory **_targets_**
 
 ## Example
-Run tool:
+- Check that docker daemon is running
+- Copy files from **_examples_** directory to the tool's directory
+- Run tool:
 ```
 python crawler.py --filters filters.txt targets.json
 ```
-Example files can be found in **_examples_** directory
