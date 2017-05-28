@@ -10,5 +10,6 @@
 .env/
 #Exception for examples directory
 !examples/*
+!examples/for_banks/*
 #Exception for requirements
 !requirements.txt

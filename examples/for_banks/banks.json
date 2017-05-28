@@ -1,0 +1,3002 @@
+{"Bank":[
+  {
+    "url": "https://online.sberbank.ru/", 
+    "checked": true, 
+    "name": "Сбербанк России"
+  }, 
+  {
+    "url": "https://online.bm.ru/", 
+    "checked": true, 
+    "name": "ВТБ Банк Москвы"
+  }, 
+  {
+    "url": "https://homebank.gazprombank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Газпромбанк"
+  }, 
+  {
+    "url": "https://online.vtb24.ru/", 
+    "checked": true, 
+    "name": "ВТБ 24"
+  }, 
+  {
+    "url": "https://cabinet.rshb.ru/", 
+    "checked": true, 
+    "name": "Россельхозбанк"
+  }, 
+  {
+    "url": "https://online.open.ru/logon", 
+    "checked": true, 
+    "name": "ФК Открытие"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Национальный Клиринговый Центр"
+  }, 
+  {
+    "url": "https://click.alfabank.ru/", 
+    "checked": true, 
+    "name": "Альфа-Банк"
+  }, 
+  {
+    "url": "https://online.mkb.ru/", 
+    "checked": true, 
+    "name": "Московский Кредитный Банк"
+  }, 
+  {
+    "url": "https://ib.psbank.ru", 
+    "checked": true, 
+    "name": "Промсвязьбанк"
+  }, 
+  {
+    "url": "https://enter.unicredit.ru/v2/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "ЮниКредит Банк"
+  }, 
+  {
+    "url": "https://online.binbank.ru/", 
+    "checked": true, 
+    "name": "Бинбанк"
+  }, 
+  {
+    "url": "https://connect.raiffeisen.ru/", 
+    "checked": true, 
+    "name": "Райффайзенбанк"
+  }, 
+  {
+    "url": "https://ibank.rosbank.ru/Login.aspx", 
+    "checked": true, 
+    "name": "Росбанк"
+  }, 
+  {
+    "url": "https://i.abr.ru/", 
+    "checked": true, 
+    "name": "Россия"
+  }, 
+  {
+    "url": "https://online.bm.ru/", 
+    "checked": true, 
+    "name": "БМ-Банк (бывш. Банк Москвы)"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Рост Банк"
+  }, 
+  {
+    "url": "https://i.bspb.ru/", 
+    "checked": true, 
+    "name": "Банк «Санкт-Петербург»"
+  }, 
+  {
+    "url": "https://elf.sovcombank.ru/elf/app/", 
+    "checked": true, 
+    "name": "Совкомбанк"
+  }, 
+  {
+    "url": "https://pb1.vbrr.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Всероссийский Банк Развития Регионов"
+  }, 
+  {
+    "url": "https://online.akbars.ru/", 
+    "checked": true, 
+    "name": "Ак Барс"
+  }, 
+  {
+    "url": "https://wb.mosoblbank.ru/Authorize/LogOn", 
+    "checked": true, 
+    "name": "Московский Областной Банк"
+  }, 
+  {
+    "url": "https://i.bankuralsib.ru/", 
+    "checked": true, 
+    "name": "Банк Уралсиб"
+  }, 
+  {
+    "url": "https://www.citibank.ru/RUGCB/JPS/portal/Index.do", 
+    "checked": true, 
+    "name": "Ситибанк"
+  }, 
+  {
+    "url": "https://online.rsb.ru/", 
+    "checked": true, 
+    "name": "Русский Стандарт"
+  }, 
+  {
+    "url": "https://i.ubrr.ru/", 
+    "checked": true, 
+    "name": "Уральский Банк Реконструкции и Развития"
+  }, 
+  {
+    "url": "https://online.trust.ru", 
+    "checked": true, 
+    "name": "Национальный Банк «Траст»"
+  }, 
+  {
+    "url": "https://ibank.roscap.ru/", 
+    "checked": true, 
+    "name": "Российский Капитал"
+  }, 
+  {
+    "url": "https://online.jugra.ru/user/login", 
+    "checked": true, 
+    "name": "Югра"
+  }, 
+  {
+    "url": "https://smponbank.ru/Authorize/LogOn", 
+    "checked": true, 
+    "name": "СМП Банк"
+  }, 
+  {
+    "url": "https://online.vostbank.ru/", 
+    "checked": true, 
+    "name": "Восточный Экспресс Банк"
+  }, 
+  {
+    "url": "https://megapay.sviaz-bank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Связь-Банк"
+  }, 
+  {
+    "url": "https://online.absolutbank.ru/", 
+    "checked": true, 
+    "name": "Абсолют Банк"
+  }, 
+  {
+    "url": "https://bank.zenit.ru/", 
+    "checked": true, 
+    "name": "Зенит"
+  }, 
+  {
+    "url": "https://telebank.minbank.ru/", 
+    "checked": true, 
+    "name": "Московский Индустриальный Банк"
+  }, 
+  {
+    "url": "https://retail2.novikom.ru/v3/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Новикомбанк"
+  }, 
+  {
+    "url": "https://online.bankcard.ru/", 
+    "checked": true, 
+    "name": "Возрождение"
+  }, 
+  {
+    "url": "https://online.nordea.ru/", 
+    "checked": true, 
+    "name": "Нордеа Банк"
+  }, 
+  {
+    "url": "https://ib.homecredit.ru/", 
+    "checked": true, 
+    "name": "Хоум Кредит Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ИНГ Банк"
+  }, 
+  {
+    "url": "https://online.tkbbank.ru/ibank/", 
+    "checked": true, 
+    "name": "Транскапиталбанк (ТКБ)"
+  }, 
+  {
+    "url": "https://online.globexbank.ru/ib6/wf2/retail/ib/login", 
+    "checked": true, 
+    "name": "Глобэкс"
+  }, 
+  {
+    "url": "https://elf.sovcombank.ru/elf/app/", 
+    "checked": true, 
+    "name": "Экспресс-Волга"
+  }, 
+  {
+    "url": "https://my.tinkoff.ru/", 
+    "checked": true, 
+    "name": "Тинькофф Банк"
+  }, 
+  {
+    "url": "https://ibanking.rosevrobank.ru/ib/site/login", 
+    "checked": true, 
+    "name": "РосЕвроБанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Национальный Расчетный Депозитарий"
+  }, 
+  {
+    "url": "https://client.sngb.ru/", 
+    "checked": true, 
+    "name": "Сургутнефтегазбанк"
+  }, 
+  {
+    "url": "https://info.deltacredit.ru/webby/cLogin.aspx", 
+    "checked": true, 
+    "name": "ДельтаКредит"
+  }, 
+  {
+    "url": "https://personalbank.ru/", 
+    "checked": true, 
+    "name": "МТС Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Банк Сберегательно-кредитного сервиса"
+  }, 
+  {
+    "url": "https://online.rgsbank.ru/", 
+    "checked": true, 
+    "name": "Росгосстрах Банк"
+  }, 
+  {
+    "url": "https://www.avangard.ru/login/www/ibank_enter.php", 
+    "checked": true, 
+    "name": "Авангард"
+  }, 
+  {
+    "url": "https://direkt.otpbank.ru/", 
+    "checked": true, 
+    "name": "ОТП Банк"
+  }, 
+  {
+    "url": "https://my.pochtabank.ru/", 
+    "checked": true, 
+    "name": "Почта Банк"
+  }, 
+  {
+    "url": "https://www.atb-online.ru/login/", 
+    "checked": true, 
+    "name": "Азиатско-Тихоокеанский Банк"
+  }, 
+  {
+    "url": "https://online.skbbank.ru/ru/html/login.html", 
+    "checked": true, 
+    "name": "СКБ-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Инвестторгбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "МСП Банк"
+  }, 
+  {
+    "url": "https://online.crediteurope.ru/", 
+    "checked": true, 
+    "name": "Кредит Европа Банк"
+  }, 
+  {
+    "url": "https://inetbank.zapsibkombank.ru", 
+    "checked": true, 
+    "name": "Запсибкомбанк"
+  }, 
+  {
+    "url": "https://ib.aversbank.ru/", 
+    "checked": true, 
+    "name": "Аверс"
+  }, 
+  {
+    "url": "https://online.cetelem.ru/", 
+    "checked": true, 
+    "name": "Сетелем Банк"
+  }, 
+  {
+    "url": "https://ib.rencredit.ru/", 
+    "checked": true, 
+    "name": "Ренессанс Кредит"
+  }, 
+  {
+    "url": "https://info-msk.rusfinance.ru:7779/jsso/SSOLogin", 
+    "checked": true, 
+    "name": "Русфинанс Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Фондсервисбанк"
+  }, 
+  {
+    "url": "https://online.centrinvest.ru/", 
+    "checked": true, 
+    "name": "Центр-инвест"
+  }, 
+  {
+    "url": "https://online.baltbank.ru/UserInfo/Login", 
+    "checked": true, 
+    "name": "Балтийский Банк"
+  }, 
+  {
+    "url": "https://fiz.tavrich.ru/v9/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Таврический"
+  }, 
+  {
+    "url": "https://online.baltinvest.com/elf/app/", 
+    "checked": true, 
+    "name": "Балтинвестбанк"
+  }, 
+  {
+    "url": "https://www.finsb.ru/individuals/everyday/internet-bank/", 
+    "checked": true, 
+    "name": "Банк Финсервис"
+  }, 
+  {
+    "url": "https://i.lockobank.ru/", 
+    "checked": true, 
+    "name": "Локо-Банк"
+  }, 
+  {
+    "url": "https://online.rncb.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Российский Национальный Коммерческий Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ЦентроКредит"
+  }, 
+  {
+    "url": "https://ibank.banksoyuz.ru/", 
+    "checked": true, 
+    "name": "Союз"
+  }, 
+  {
+    "url": "https://rb.kubankredit.ru/", 
+    "checked": true, 
+    "name": "Кубань Кредит"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "БНП Париба Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Росэксимбанк"
+  }, 
+  {
+    "url": "https://www2.secure.hsbcnet.com/uims/portal/IDV_CAM10_AUTHENTICATION", 
+    "checked": true, 
+    "name": "Эйч-Эс-Би-Си Банк (HSBC)"
+  }, 
+  {
+    "url": "https://online.metcom.ru", 
+    "checked": true, 
+    "name": "Меткомбанк (Каменск-Уральский)"
+  }, 
+  {
+    "url": "https://i.vuzbank.ru/home", 
+    "checked": true, 
+    "name": "ВУЗ-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Дойче Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "РН Банк"
+  }, 
+  {
+    "url": "https://info.metib.ru:8223/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Металлинвестбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=expobank", 
+    "checked": true, 
+    "name": "Экспобанк"
+  }, 
+  {
+    "url": "https://mfk-bank.handybank.ru", 
+    "checked": true, 
+    "name": "Международный Финансовый Клуб"
+  }, 
+  {
+    "url": "https://online.bcs.ru/cy/web/guest/home", 
+    "checked": true, 
+    "name": "БКС — Инвестиционный Банк"
+  }, 
+  {
+    "url": "https://my.bancaintesa.ru/v10/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Банк Интеза"
+  }, 
+  {
+    "url": "https://ec.rosenergobank.ru/webmvc/clientLogin", 
+    "checked": true, 
+    "name": "Росэнергобанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ОФК Банк"
+  }, 
+  {
+    "url": "https://retail.sdm.ru/logon", 
+    "checked": true, 
+    "name": "СДМ-Банк"
+  }, 
+  {
+    "url": "https://ikib.ru/rich/auth", 
+    "checked": true, 
+    "name": "Крайинвестбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Креди Агриколь КИБ"
+  }, 
+  {
+    "url": "https://wb.bbr.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "ББР Банк"
+  }, 
+  {
+    "url": "https://obrbank.handybank.ru", 
+    "checked": true, 
+    "name": "Образование"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Социнвестбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Тойота Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Международный Банк Санкт-Петербурга (МБСП)"
+  }, 
+  {
+    "url": "https://online.mteb.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Межтопэнергобанк"
+  }, 
+  {
+    "url": "https://ibank.gebank.ru/ru/html/login.html", 
+    "checked": true, 
+    "name": "Газэнергобанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Сумитомо Мицуи"
+  }, 
+  {
+    "url": "https://investpay.ru/#!/login", 
+    "checked": true, 
+    "name": "Челябинвестбанк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=primsoc", 
+    "checked": true, 
+    "name": "Примсоцбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "АйСиБиСи Банк"
+  }, 
+  {
+    "url": "https://www.chelindbank.ru/ib2/Logon.aspx", 
+    "checked": true, 
+    "name": "Челиндбанк"
+  }, 
+  {
+    "url": "https://online.forabank.ru/rich/auth", 
+    "checked": true, 
+    "name": "Фора-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Еврофинанс Моснарбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=nskbl", 
+    "checked": true, 
+    "name": "Левобережный"
+  }, 
+  {
+    "url": "https://on-line.ipb.ru/Login/Login.aspx", 
+    "checked": true, 
+    "name": "Интерпрогрессбанк"
+  }, 
+  {
+    "url": "https://online.bfa.ru/v1/webcb/bsi.dll", 
+    "checked": true, 
+    "name": "Банк БФА"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Саровбизнесбанк"
+  }, 
+  {
+    "url": "https://ibank.fbbank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Финанс Бизнес Банк"
+  }, 
+  {
+    "url": "https://online.severgazbank.ru/", 
+    "checked": true, 
+    "name": "Банк СГБ"
+  }, 
+  {
+    "url": "https://www.commerzbank.ru", 
+    "checked": true, 
+    "name": "Коммерцбанк (Евразия)"
+  }, 
+  {
+    "url": "https://plus-bank.handybank.ru", 
+    "checked": true, 
+    "name": "Плюс Банк"
+  }, 
+  {
+    "url": "https://online.binbank.ru/elf/app/main", 
+    "checked": true, 
+    "name": "Бинбанк кредитные карты"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Бэнк оф Чайна"
+  }, 
+  {
+    "url": "https://online.kubank.ru", 
+    "checked": true, 
+    "name": "Кольцо Урала"
+  }, 
+  {
+    "url": "https://online.bystrobank.ru/", 
+    "checked": true, 
+    "name": "БыстроБанк"
+  }, 
+  {
+    "url": "https://ibam24.ru:1443/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "МБА-Москва"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=nsbank", 
+    "checked": true, 
+    "name": "НС Банк"
+  }, 
+  {
+    "url": "https://dbo.okbank.ru:8443/ccee/LoginScreen.jsp", 
+    "checked": true, 
+    "name": "Объединенный Капитал"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Фольксваген Банк Рус"
+  }, 
+  {
+    "url": "https://ibank.dvbank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Дальневосточный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Солидарность (Самара)"
+  }, 
+  {
+    "url": "https://online.albank.ru/rich/auth", 
+    "checked": true, 
+    "name": "Алмазэргиэнбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Русский Международный Банк"
+  }, 
+  {
+    "url": "https://direct.creditural.ru/", 
+    "checked": true, 
+    "name": "Кредит Урал Банк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=ns-bank", 
+    "checked": true, 
+    "name": "Национальный Стандарт"
+  }, 
+  {
+    "url": "https://online.intechbank.ru/", 
+    "checked": true, 
+    "name": "Интехбанк"
+  }, 
+  {
+    "url": "https://ibank.acbank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "АктивКапитал Банк"
+  }, 
+  {
+    "url": "https://retail.interprombank.ru/rich/auth", 
+    "checked": true, 
+    "name": "Интерпромбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Мир Бизнес Банк"
+  }, 
+  {
+    "url": "https://free.primbank.ru/", 
+    "checked": true, 
+    "name": "Приморье"
+  }, 
+  {
+    "url": "https://online.binbank.ru/", 
+    "checked": true, 
+    "name": "Генбанк"
+  }, 
+  {
+    "url": "https://ibank.rosbank.ru/Login.aspx", 
+    "checked": true, 
+    "name": "Аресбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Московское Ипотечное Агентство"
+  }, 
+  {
+    "url": "https://gazbank.handybank.ru/", 
+    "checked": true, 
+    "name": "Газбанк"
+  }, 
+  {
+    "url": "https://mib.devoncredit.ru/#/login", 
+    "checked": true, 
+    "name": "Девон-Кредит"
+  }, 
+  {
+    "url": "https://telebank.tatsotsbank.ru:8443/", 
+    "checked": true, 
+    "name": "Татсоцбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Платежный Центр"
+  }, 
+  {
+    "url": "https://ib.apkbank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Агропромкредит"
+  }, 
+  {
+    "url": "https://online.kombank.ru/", 
+    "checked": true, 
+    "name": "Липецккомбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Ланта-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Данске Банк"
+  }, 
+  {
+    "url": "https://ibank.akibank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Акибанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "БМВ Банк"
+  }, 
+  {
+    "url": "http://www.seb.lv/ru/e-uslugi/internet-bank", 
+    "checked": true, 
+    "name": "СЭБ Банк"
+  }, 
+  {
+    "url": "https://online.uralfd.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Уральский Финансовый Дом"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Энергобанк"
+  }, 
+  {
+    "url": "https://spurtbank.handybank.ru/", 
+    "checked": true, 
+    "name": "Спурт Банк"
+  }, 
+  {
+    "url": "https://fl.lgn.ru/rich/auth", 
+    "checked": true, 
+    "name": "Легион"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Чайна Констракшн"
+  }, 
+  {
+    "url": "https://www.kurskprombank.ru:5443/", 
+    "checked": true, 
+    "name": "Курскпромбанк"
+  }, 
+  {
+    "url": "https://web2.pscb.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Петербургский Социальный Коммерческий Банк"
+  }, 
+  {
+    "url": "https://homebank.moskb.ru/login/", 
+    "checked": true, 
+    "name": "Москоммерцбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=etbank", 
+    "checked": true, 
+    "name": "Энерготрансбанк"
+  }, 
+  {
+    "url": "https://ib.nbdbank.ru:8443/user/login", 
+    "checked": true, 
+    "name": "НБД-Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=45", 
+    "checked": true, 
+    "name": "Хлынов"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Мерседес-Бенц Банк Рус"
+  }, 
+  {
+    "url": "https://elf.sovcombank.ru/elf/app/", 
+    "checked": true, 
+    "name": "Меткомбанк (Череповец)"
+  }, 
+  {
+    "url": "https://lk.bcsb.ru/", 
+    "checked": true, 
+    "name": "Башкомснаббанк"
+  }, 
+  {
+    "url": "https://isimple.jtbank.ru/rich/auth", 
+    "checked": true, 
+    "name": "Джей энд Ти Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Собинбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Тольяттихимбанк"
+  }, 
+  {
+    "url": "https://my.k-bnk.ru/webmvc/clientLogin", 
+    "checked": true, 
+    "name": "Кошелев-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Банк Кредит Свисс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Натиксис Банк"
+  }, 
+  {
+    "url": "https://rublev.handybank.ru/", 
+    "checked": true, 
+    "name": "Рублев"
+  }, 
+  {
+    "url": "https://online.derzhava.ru/Account/LogOn", 
+    "checked": true, 
+    "name": "Держава"
+  }, 
+  {
+    "url": "https://direkt.otpbank.ru/", 
+    "checked": true, 
+    "name": "НК Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Развитие-Столица"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Акцепт"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Темпбанк"
+  }, 
+  {
+    "url": "https://online.oaookb.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Объединенный Кредитный Банк"
+  }, 
+  {
+    "url": "https://online.alefbank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Алеф-Банк"
+  }, 
+  {
+    "url": "https://ibank.alexbank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Александровский"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Пойдем!"
+  }, 
+  {
+    "url": "https://telebank.utb.ru/", 
+    "checked": true, 
+    "name": "Уралтрансбанк"
+  }, 
+  {
+    "url": "https://nnb.nipbank.ru/dbo/login.html", 
+    "checked": true, 
+    "name": "Нацинвестпромбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Денизбанк Москва"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Солидарность (Москва)"
+  }, 
+  {
+    "url": "https://online.bankofkazan.ru/", 
+    "checked": true, 
+    "name": "Банк Казани"
+  }, 
+  {
+    "url": "https://ib.gibank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Гарант-Инвест"
+  }, 
+  {
+    "url": "https://www.e-norvik.eu/start.cfm?language=RU", 
+    "checked": true, 
+    "name": "Норвик Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Расчетно-Кредитный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Национальный Резервный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Росдорбанк"
+  }, 
+  {
+    "url": "https://dbo.isbank.com.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Ишбанк"
+  }, 
+  {
+    "url": "https://telebank.forshtadt.ru/", 
+    "checked": true, 
+    "name": "Форштадт"
+  }, 
+  {
+    "url": "https://online.russipoteka.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Русский Ипотечный Банк"
+  }, 
+  {
+    "url": "https://pc.priovtb.com/login.aspx", 
+    "checked": true, 
+    "name": "Прио-Внешторгбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Морской Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Гранд Инвест Банк"
+  }, 
+  {
+    "url": "https://vvbank.handybank.ru/", 
+    "checked": true, 
+    "name": "Банк ВВБ"
+  }, 
+  {
+    "url": "https://internet.ks-bank.ru/", 
+    "checked": true, 
+    "name": "КС Банк"
+  }, 
+  {
+    "url": "https://ib.nvkbank.ru/", 
+    "checked": true, 
+    "name": "Нижневолжский Коммерческий Банк"
+  }, 
+  {
+    "url": "https://online.in-bank.ru/mobile2/#!/login", 
+    "checked": true, 
+    "name": "Инбанк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=asbank", 
+    "checked": true, 
+    "name": "Агросоюз"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ТЭМБР-Банк"
+  }, 
+  {
+    "url": "https://212.48.39.11/remotebanking/login/login.aspx", 
+    "checked": true, 
+    "name": "Русьуниверсалбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Нико-Банк"
+  }, 
+  {
+    "url": "https://internet.1mbank.ru/user/login", 
+    "checked": true, 
+    "name": "Первомайский"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Ижкомбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=troikabank", 
+    "checked": true, 
+    "name": "Тройка-Д Банк"
+  }, 
+  {
+    "url": "https://solid-bank.handybank.ru/", 
+    "checked": true, 
+    "name": "Солид Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Российская Финансовая Корпорация"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Ури Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Национальная Факторинговая Компания"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=rtbk", 
+    "checked": true, 
+    "name": "Русский Торговый Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Таатта"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Ассоциация"
+  }, 
+  {
+    "url": "https://online.banknp.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Новопокровский"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Современный Коммерческий Инновационный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Нефтяной Альянс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Морган Стэнли Банк"
+  }, 
+  {
+    "url": "https://qiwi.com/replenish/categories/e-bank.action", 
+    "checked": true, 
+    "name": "Киви Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Юг-Инвестбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Банк Жилищного Финансирования"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=orbank", 
+    "checked": true, 
+    "name": "Оренбург"
+  }, 
+  {
+    "url": "https://isnbank.ru/LogOn", 
+    "checked": true, 
+    "name": "Снежинский"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Торговый Городской Банк"
+  }, 
+  {
+    "url": "https://i.emb.ru/", 
+    "checked": true, 
+    "name": "Екатеринбург"
+  }, 
+  {
+    "url": "https://my.modulbank.ru/#/signin", 
+    "checked": true, 
+    "name": "Модульбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=promtransbank", 
+    "checked": true, 
+    "name": "Промтрансбанк"
+  }, 
+  {
+    "url": "https://client.atbbank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Автоторгбанк"
+  }, 
+  {
+    "url": "https://online.round.ru/rich/auth", 
+    "checked": true, 
+    "name": "Банк Раунд"
+  }, 
+  {
+    "url": "https://nefteprom.handybank.ru/", 
+    "checked": true, 
+    "name": "Нефтепромбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Енисей"
+  }, 
+  {
+    "url": "https://online.siab.ru/", 
+    "checked": true, 
+    "name": "СИАБ"
+  }, 
+  {
+    "url": "https://dbo.energomashbank.ru/dbo/login.html", 
+    "checked": true, 
+    "name": "Энергомашбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Анкор Банк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=expertbank", 
+    "checked": true, 
+    "name": "Эксперт Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?wicket-crypt=GAzFz188Rmw&site=rusyugbank", 
+    "checked": true, 
+    "name": "РусЮгбанк"
+  }, 
+  {
+    "url": "https://slaviabank.handybank.ru/", 
+    "checked": true, 
+    "name": "Славия"
+  }, 
+  {
+    "url": "https://mnhb.handybank.ru/", 
+    "checked": true, 
+    "name": "Московский Нефтехимический Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Томскпромстройбанк"
+  }, 
+  {
+    "url": "https://kranbank.handybank.ru/", 
+    "checked": true, 
+    "name": "Кранбанк"
+  }, 
+  {
+    "url": "https://online.transstroybank.ru/rich/auth", 
+    "checked": true, 
+    "name": "Трансстройбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "НБК-Банк"
+  }, 
+  {
+    "url": "https://ibank.soyuzny.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Союзный"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=psbst", 
+    "checked": true, 
+    "name": "Ставропольпромстройбанк"
+  }, 
+  {
+    "url": "https://secure.bankvrn.ru/", 
+    "checked": true, 
+    "name": "Воронеж"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Вокбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Япы Креди Банк Москва"
+  }, 
+  {
+    "url": "https://msk-online.sevcred.ru/Login/Login.aspx", 
+    "checked": true, 
+    "name": "Северный Кредит"
+  }, 
+  {
+    "url": "https://online.mcbankrus.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "МС Банк Рус"
+  }, 
+  {
+    "url": "https://ib3.svabank.ru/ru/html/login.html", 
+    "checked": true, 
+    "name": "Северо-Восточный Альянс"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Мосуралбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Альба Альянс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Белгородсоцбанк"
+  }, 
+  {
+    "url": "https://online.baltinvest.com/elf/app/", 
+    "checked": true, 
+    "name": "БайкалИнвестБанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Азия-Инвест Банк"
+  }, 
+  {
+    "url": "https://ib.kkb.ru/", 
+    "checked": true, 
+    "name": "Консервативный Коммерческий Банк"
+  }, 
+  {
+    "url": "https://aktivbank.handybank.ru/", 
+    "checked": true, 
+    "name": "Актив Банк"
+  }, 
+  {
+    "url": "https://ibank.finam.ru/User/LogOn", 
+    "checked": true, 
+    "name": "Финам Банк"
+  }, 
+  {
+    "url": "https://bcf.umbank.ru/ib/", 
+    "checked": true, 
+    "name": "Углеметбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Муниципальный Камчатпрофитбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Loginsite=kbb", 
+    "checked": true, 
+    "name": "Кузнецкбизнесбанк"
+  }, 
+  {
+    "url": "https://kred-bank.handybank.ru/", 
+    "checked": true, 
+    "name": "Чувашкредитпромбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "КЭБ ЭйчЭнБи Банк"
+  }, 
+  {
+    "url": "https://rusnarbank.handybank.ru/", 
+    "checked": true, 
+    "name": "Руснарбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=kbhmb", 
+    "checked": true, 
+    "name": "Хакасский Муниципальный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Голдман Сакс Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Уралкапиталбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Русь"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Ю Би Эс Банк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=gaztransbank", 
+    "checked": true, 
+    "name": "Газтрансбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Проминвестбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login  ", 
+    "checked": true, 
+    "name": "Банк БКФ"
+  }, 
+  {
+    "url": "https://confidencebank.handybank.ru/", 
+    "checked": true, 
+    "name": "Конфидэнс Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Коммерческий Индо Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "РЕСО Кредит"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Славянский Кредит"
+  }, 
+  {
+    "url": "https://ib.novobank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Новобанк"
+  }, 
+  {
+    "url": "https://sevnb.handybank.ru/", 
+    "checked": true, 
+    "name": "Северный Народный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Кубаньторгбанк"
+  }, 
+  {
+    "url": "https://bank-on-line.ru", 
+    "checked": true, 
+    "name": "Нейва"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Индустриальный Сберегательный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Сити Инвест Банк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=forbank", 
+    "checked": true, 
+    "name": "ФорБанк"
+  }, 
+  {
+    "url": "https://online.avtogradbank.ru/cgi-bin/wspd_cgi.sh/WService=wspda/login_op.html", 
+    "checked": true, 
+    "name": "Автоградбанк"
+  }, 
+  {
+    "url": "https://ibank.bankorange.ru", 
+    "checked": true, 
+    "name": "Банк Оранжевый"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=united  ", 
+    "checked": true, 
+    "name": "Енисейский Объединенный Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Сибсоцбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Банк ПСА Финанс Рус"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Владпромбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ГПБ-Ипотека"
+  }, 
+  {
+    "url": "https://ibank.ziraatbank.ru/f2b/", 
+    "checked": true, 
+    "name": "Зираат Банк"
+  }, 
+  {
+    "url": "https://gutapay.ru/#/Login/", 
+    "checked": true, 
+    "name": "Гута-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Чайнасельхозбанк"
+  }, 
+  {
+    "url": "https://ussurybank.handybank.ru/", 
+    "checked": true, 
+    "name": "Уссури"
+  }, 
+  {
+    "url": "https://my.morskoybank.com:7007/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Севастопольский Морской Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Риабанк"
+  }, 
+  {
+    "url": "https://dbo.agroros.ru/pda/", 
+    "checked": true, 
+    "name": "Агророс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Итуруп"
+  }, 
+  {
+    "url": "https://ib.yarbank.ru/app/#/enterlayout/login", 
+    "checked": true, 
+    "name": "ЯР-Банк"
+  }, 
+  {
+    "url": "https://vitabank.handybank.ru/", 
+    "checked": true, 
+    "name": "Витабанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Камский Коммерческий Банк"
+  }, 
+  {
+    "url": "https://online.zemsky.ru/ib6/retail/index.html", 
+    "checked": true, 
+    "name": "Земский Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Нэклис-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Банк Торгового Финансирования"
+  }, 
+  {
+    "url": "https://aorb.handybank.ru/", 
+    "checked": true, 
+    "name": "Объединенный Резервный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Зенит Сочи"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Москва-Сити"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/", 
+    "checked": true, 
+    "name": "Венец"
+  }, 
+  {
+    "url": "https://ibank.kremlinbank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Кремлевский"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Русский Национальный Банк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/", 
+    "checked": true, 
+    "name": "Долинск"
+  }, 
+  {
+    "url": "https://sinko-bank.handybank.ru/", 
+    "checked": true, 
+    "name": "Синко-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Гаранти Банк — Москва"
+  }, 
+  {
+    "url": "https://online.binbank.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Бинбанк Столица"
+  }, 
+  {
+    "url": "https://my.smartbank.kz", 
+    "checked": true, 
+    "name": "Евразийский Банк"
+  }, 
+  {
+    "url": "https://quick.bankvl.ru/user/login", 
+    "checked": true, 
+    "name": "Вологжанин"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Платина"
+  }, 
+  {
+    "url": "https://retail.kuzbank.ru/rich/auth", 
+    "checked": true, 
+    "name": "Кузнецкий"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Сибирский Банк Реконструкции и Развития"
+  }, 
+  {
+    "url": "https://online.fbid.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Банк Инноваций и Развития"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Финансово-Промышленный Капитал"
+  }, 
+  {
+    "url": "https://ibank2.rostfinance.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Ростфинанс"
+  }, 
+  {
+    "url": "https://money.yandex.ru/new", 
+    "checked": true, 
+    "name": "Яндекс.Деньги"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Роял Кредит Банк"
+  }, 
+  {
+    "url": "https://gorbank.handybank.ru", 
+    "checked": true, 
+    "name": "Горбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Камчаткомагропромбанк"
+  }, 
+  {
+    "url": "https://online.mkb.ru/", 
+    "checked": true, 
+    "name": "Московский Коммерческий Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Межбанковский Кредитный Союз"
+  }, 
+  {
+    "url": "https://pb.erbebank.com/login.aspx", 
+    "checked": true, 
+    "name": "Банкхаус Эрбе"
+  }, 
+  {
+    "url": "https://link.slbank.ru", 
+    "checked": true, 
+    "name": "Стройлесбанк"
+  }, 
+  {
+    "url": "https://ibank.pirbank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "ПИР Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Межрегиональный промышленно-строительный банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Экси-Банк"
+  }, 
+  {
+    "url": "https://master-capital.handybank.ru/", 
+    "checked": true, 
+    "name": "Мастер-Капитал"
+  }, 
+  {
+    "url": "https://russobank.handybank.ru/", 
+    "checked": true, 
+    "name": "Руссобанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Донкомбанк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=kbumb", 
+    "checked": true, 
+    "name": "УМ-Банк"
+  }, 
+  {
+    "url": "https://ibank.vstcb.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "ВостСибтранскомбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Бест Эффортс Банк"
+  }, 
+  {
+    "url": "https://online.almabank.ru/Login.aspx", 
+    "checked": true, 
+    "name": "Алма Банк (бывш. Первый Инвестиционный Банк)"
+  }, 
+  {
+    "url": "https://www.mpaycard.ru/WebOffice/rtbank/Authorization/LogOn", 
+    "checked": true, 
+    "name": "Радиотехбанк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/", 
+    "checked": true, 
+    "name": "Аксонбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Мегаполис"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Хованский"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Крыловский"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Иваново"
+  }, 
+  {
+    "url": "https://wallet.rapida.ru", 
+    "checked": true, 
+    "name": "Рапида"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Юнистрим"
+  }, 
+  {
+    "url": "https://online.mfbank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "МФБанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Ермак"
+  }, 
+  {
+    "url": "https://pay.uralprombank.ru/", 
+    "checked": true, 
+    "name": "Уралпромбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Международный Коммерческий Банк"
+  }, 
+  {
+    "url": "https://kmbank.handybank.ru/", 
+    "checked": true, 
+    "name": "Кузнецкий Мост"
+  }, 
+  {
+    "url": "https://crocusbank.handybank.ru/", 
+    "checked": true, 
+    "name": "Крокус-Банк"
+  }, 
+  {
+    "url": "https://b2.ndb24.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Народный Доверительный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Братский АНКБ"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=nevsky", 
+    "checked": true, 
+    "name": "Невский Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Банк Экономический Союз"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Санкт-Петербургский Банк Инвестиций"
+  }, 
+  {
+    "url": "https://online.zhivagobank.ru/rich/auth", 
+    "checked": true, 
+    "name": "Живаго-Банк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/", 
+    "checked": true, 
+    "name": "НОКССбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=sibesbank  ", 
+    "checked": true, 
+    "name": "Сибэс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Заречье"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Алтайкапиталбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Донхлеббанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Унифондбанк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=mpcb", 
+    "checked": true, 
+    "name": "Московско-Парижский Банк"
+  }, 
+  {
+    "url": "https://cardhouse.ncc-uc.ru", 
+    "checked": true, 
+    "name": "ИТ Банк"
+  }, 
+  {
+    "url": "https://ib.vestabank.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Веста"
+  }, 
+  {
+    "url": "https://euroalliance.handybank.ru/", 
+    "checked": true, 
+    "name": "Евроальянс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Еврокапитал-Альянс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ЮМК"
+  }, 
+  {
+    "url": "https://ibank.premcred.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Банк Премьер Кредит"
+  }, 
+  {
+    "url": "https://online.isbmsk.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Инвестсоцбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Тамбовкредитпромбанк"
+  }, 
+  {
+    "url": "https://secure.handybank.ru", 
+    "checked": true, 
+    "name": "РБА"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Центрально-Европейский Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Земкомбанк"
+  }, 
+  {
+    "url": "https://online.bcc-msk.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Банк БЦК-Москва"
+  }, 
+  {
+    "url": "https://sprint.olabank.ru/", 
+    "checked": true, 
+    "name": "Йошкар-Ола"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Владбизнесбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Взаимодействие"
+  }, 
+  {
+    "url": "https://newsymbol.handybank.ru/", 
+    "checked": true, 
+    "name": "Новый Символ"
+  }, 
+  {
+    "url": "https://selkombank.handybank.ru/", 
+    "checked": true, 
+    "name": "Костромаселькомбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Новый Московский Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Татагропромбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "БСТ-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "РТС-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Аспект"
+  }, 
+  {
+    "url": "https://ibank.economiks.ru:2443/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Экономикс-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Оней Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Оргбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Апабанк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/", 
+    "checked": true, 
+    "name": "Канский"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ИРС"
+  }, 
+  {
+    "url": "https://gws.sauberbank.com:8444/", 
+    "checked": true, 
+    "name": "Заубер Банк"
+  }, 
+  {
+    "url": "https://ibank2.vfbank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Внешфинбанк"
+  }, 
+  {
+    "url": "https://credexbank.handybank.ru/", 
+    "checked": true, 
+    "name": "Кредит Экспресс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Первый Клиентский Банк"
+  }, 
+  {
+    "url": "https://clomsk.pfsbank.ru/Login/Login.aspx", 
+    "checked": true, 
+    "name": "Промышленно-Финансовое Сотрудничество"
+  }, 
+  {
+    "url": "https://online.bankelita.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Элита"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Газнефтьбанк"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=sistemabank", 
+    "checked": true, 
+    "name": "Система"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/?site=credprombank", 
+    "checked": true, 
+    "name": "Кредпромбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Народный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Кросна-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Пермь"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Викинг"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "К2 Банк"
+  }, 
+  {
+    "url": "https://ibank2.newtimebank.ru:1443/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Новое Время"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Вкабанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Резерв"
+  }, 
+  {
+    "url": "https://client.ivybank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Айви Банк"
+  }, 
+  {
+    "url": "https://card.dalena.ru/", 
+    "checked": true, 
+    "name": "Далена Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Международный Строительный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Вестерн Юнион ДП Восток"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Яринтербанк"
+  }, 
+  {
+    "url": "https://socium-bank.handybank.ru/", 
+    "checked": true, 
+    "name": "Социум-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Спиритбанк"
+  }, 
+  {
+    "url": "https://ibank2.pshb.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Промсельхозбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Современные Стандарты Бизнеса"
+  }, 
+  {
+    "url": "https://ibank.roscap.ru/", 
+    "checked": true, 
+    "name": "Капитал"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Сельмашбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Приобье"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Кетовский Коммерческий Банк"
+  }, 
+  {
+    "url": "https://zkb.handybank.ru/", 
+    "checked": true, 
+    "name": "Златкомбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Росбизнесбанк"
+  }, 
+  {
+    "url": "https://retail.mvbank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Московский Вексельный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Кемсоцинбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Россита-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Америкэн Экспресс Банк"
+  }, 
+  {
+    "url": "https://myaltyn.kz/", 
+    "checked": true, 
+    "name": "Алтынбанк"
+  }, 
+  {
+    "url": "https://ibank.capitalkredit.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Столичный Кредит"
+  }, 
+  {
+    "url": "https://www.paypal.com/signin", 
+    "checked": true, 
+    "name": "ПэйПал Ру"
+  }, 
+  {
+    "url": "https://ibank2.preodbank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Преодоление"
+  }, 
+  {
+    "url": "https://online.globexbank.ru/ib6/wf2/retail/ib/login", 
+    "checked": true, 
+    "name": "Глобус"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Старооскольский Агропромбанк"
+  }, 
+  {
+    "url": "https://secure.handybank.ru", 
+    "checked": true, 
+    "name": "Спутник"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Торжокуниверсалбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Бум-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "КОР"
+  }, 
+  {
+    "url": "https://ibank.runabank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Руна-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Майкопбанк"
+  }, 
+  {
+    "url": "https://ibank2.newbank.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Новый Век"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Евроазиатский Инвестиционный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Дом-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Саратов"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=ptkb", 
+    "checked": true, 
+    "name": "Примтеркомбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Лайтбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Национальный Банк Взаимного Кредита"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Вятич"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Проинвестбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Уралфинанс"
+  }, 
+  {
+    "url": "https://elf.faktura.ru/elf/app/", 
+    "checked": true, 
+    "name": "РФИ Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Великие Луки Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Арзамас"
+  }, 
+  {
+    "url": "https://www.faktura.ru/f2b/", 
+    "checked": true, 
+    "name": "Крона-Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Акцент"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Икано Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Холмск"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Петербургский Расчетный Центр"
+  }, 
+  {
+    "url": "https://i.pfbank.ru/", 
+    "checked": true, 
+    "name": "Прайм Финанс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Кузбассхимбанк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login?site=ncubank", 
+    "checked": true, 
+    "name": "Новый Кредитный Союз"
+  }, 
+  {
+    "url": "https://i.tagilbank.ru/", 
+    "checked": true, 
+    "name": "Тагилбанк"
+  }, 
+  {
+    "url": "https://tib.handybank.ru/", 
+    "checked": true, 
+    "name": "ИК Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Первый Дортрансбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Финтрастбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Нальчик"
+  }, 
+  {
+    "url": "https://futurebank.handybank.ru/", 
+    "checked": true, 
+    "name": "Банк РМП"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Калуга"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Синергия"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Ноосфера"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Максима"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Вэлтон Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Наш Дом"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Риал-Кредит"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Первоуральскбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Сервис-Резерв"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Саммит Банк"
+  }, 
+  {
+    "url": "https://online.kbreb.ru/ib6/wf2/retail/ib/loginreb", 
+    "checked": true, 
+    "name": "Русский Элитарный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Соколовский"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Новый Промышленный Банк"
+  }, 
+  {
+    "url": "https://my.pochtabank.ru/", 
+    "checked": true, 
+    "name": "Почтобанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Республиканский Кредитный Альянс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Тендер-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Космос"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Вакобанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Кредитинвест"
+  }, 
+  {
+    "url": "https://dbo.inkaro.ru/web_banking/protected/welcome.jsf", 
+    "checked": true, 
+    "name": "Инкаробанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Химик"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Мурманский Расчетный Центр"
+  }, 
+  {
+    "url": "https://online.stalbank.ru/", 
+    "checked": true, 
+    "name": "Сталь Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Дон-Тексбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Тексбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Московский Клиринговый Центр"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Мурманский Социальный Коммерческий Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Спецстройбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ЕАТП Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Металлург"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Москва"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Финарс Банк"
+  }, 
+  {
+    "url": "https://dbo.ncibank.ru/scripts/cgiip.wsc/login.html", 
+    "checked": true, 
+    "name": "Невастройинвест"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Межрегиональный Почтовый Банк"
+  }, 
+  {
+    "url": "https://ic.zhilcredit.ru:3443/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Жилкредит"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Михайловский ПЖСБ"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Байкалкредобанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Регионфинансбанк"
+  }, 
+  {
+    "url": "https://bank45.handybank.ru/", 
+    "checked": true, 
+    "name": "Курган"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Народный Инвестиционный Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Народный Банк Тувы"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Севзапинвестпромбанк"
+  }, 
+  {
+    "url": "https://online.bankffin.ru/elf/app/", 
+    "checked": true, 
+    "name": "ФФин Банк (бывш. Охабанк)"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "МТИ-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Онего"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Гринкомбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Центрально-Азиатский"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Классик Эконом Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Прохладный"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Новокиб"
+  }, 
+  {
+    "url": "https://internet.1mbank.ru/user/login", 
+    "checked": true, 
+    "name": "Майский"
+  }, 
+  {
+    "url": "https://urb.handybank.ru/", 
+    "checked": true, 
+    "name": "Южный Региональный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Арсенал"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Флора-Москва"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Московский Национальный Инвестиционный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "АвтоКредитБанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Международный Расчетный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Эльбин"
+  }, 
+  {
+    "url": "http://cabinet.altbb.ru/login", 
+    "checked": true, 
+    "name": "АлтайБизнес-Банк"
+  }, 
+  {
+    "url": "https://anelik.handybank.ru/", 
+    "checked": true, 
+    "name": "Анелик РУ"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "НоваховКапиталБанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Славянбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Си Ди Би Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Холдинвестбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Балаково-Банк"
+  }, 
+  {
+    "url": "https://ib.bankrsi.ru/Login/Login.aspx", 
+    "checked": true, 
+    "name": "Банк РСИ"
+  }, 
+  {
+    "url": "https://acropol.handybank.ru/", 
+    "checked": true, 
+    "name": "Акрополь"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Русский Банк Сбережений"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Народный Земельно-Промышленный Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Объединенный Банк Республики"
+  }, 
+  {
+    "url": "https://online.binbank.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Уралприватбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Ресурс-Траст"
+  }, 
+  {
+    "url": "https://online.hcsbk.kz/UserAccount/Login", 
+    "checked": true, 
+    "name": "Жилстройбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Прокоммерцбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "РусьРегионБанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Гефест"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Стандарт-Кредит"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Телекоммерц Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Алжан"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ВРБ"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Национальный Банк Сбережений"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Стар Альянс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Башпромбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Объединенная Расчетная Система"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Геобанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Лэнд-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Таганрогбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Европейский Стандарт"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "МВС Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Дружба"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Берейт"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Финчер"
+  }, 
+  {
+    "url": "https://secure.handybank.ru", 
+    "checked": true, 
+    "name": "Логос"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Северо-Западный 1 Альянс Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "РИТЦ Банк"
+  }, 
+  {
+    "url": "https://www.faktura.ru/lite/app/pub/Login", 
+    "checked": true, 
+    "name": "Эко-Инвест"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Рента-Банк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Единая Расчётная Палата"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Универсальная электронная карта"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "РИБ"
+  }, 
+  {
+    "url": "https://money.mail.ru", 
+    "checked": true, 
+    "name": "Деньги.Мэйл.Ру"
+  }, 
+  {
+    "url": "https://www.moneta.ru/login.htm", 
+    "checked": true, 
+    "name": "Монета.ру"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Альтернатива"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Континенталь"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Информпрогресс"
+  }, 
+  {
+    "url": "https://www.walletone.com/merchant/client/", 
+    "checked": true, 
+    "name": "Единая касса"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "ИР-Кредит"
+  }, 
+  {
+    "url": "https://ib.psbank.ru/", 
+    "checked": true, 
+    "name": "Промсвязьинвест"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Тайдон"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Интеркоопбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Северстройбанк"
+  }, 
+  {
+    "url": "https://leadermt.ru/", 
+    "checked": true, 
+    "name": "Лидер"
+  }, 
+  {
+    "url": "http://www.runetbank.ru", 
+    "checked": true, 
+    "name": "Рунэтбанк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Русское Финансовое Общество"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Нарат"
+  }, 
+  {
+    "url": "https://www.mobi-money.ru/login/", 
+    "checked": true, 
+    "name": "Моби.Деньги"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Сетевая Расчетная Палата"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Расчетная Палата СВМБ"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Красноярский Краевой Расчетный Центр"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Континент Финанс"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Инновационный Расчетный Центр"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Глобал Эксчейндж"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Электронный платежный сервис"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Фидбэк"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Премиум"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Платежный Клиринговый Дом"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Вест"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Умут"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Дальний Восток"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Расчетный Финансовый Дом"
+  }, 
+  {
+    "url": "https://21vek-online.ru:8080/dbo/login", 
+    "checked": true, 
+    "name": "21 Век"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Частный Расчетно-Кассовый Центр"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "АРБ-Инкасс"
+  }
+]}
