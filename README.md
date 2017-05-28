@@ -1,5 +1,5 @@
 # crawler
-This tool was written to crawling usage of Javascript-plugins on sites.
+This tool was written to crawling usage of Javascript-plugins on sites in the context of [diploma](https://blog.dsp25no.ru/2017/05/28/what-can-you-see-web-analytic.html).
 ## Installation
 ### via Git clone
 - Clone this repository
