@@ -1,0 +1,5 @@
+google_tag .*googletagmanager\.com.*
+google_analytics .*google-analytics\.com/analytics\.js.*
+google_analytics_old .*ssl\.google-analytics\.com/ga\.js.*
+yandex_metrika .*mc\.yandex\.ru.*
+mail_top .*top-fwz1\.mail\.ru.*

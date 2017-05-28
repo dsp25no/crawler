@@ -1,0 +1,102 @@
+{"Bank":[
+  {
+    "url": "https://online.sberbank.ru/", 
+    "checked": true, 
+    "name": "Сбербанк России"
+  }, 
+  {
+    "url": "https://online.bm.ru/", 
+    "checked": true, 
+    "name": "ВТБ Банк Москвы"
+  }, 
+  {
+    "url": "https://homebank.gazprombank.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Газпромбанк"
+  }, 
+  {
+    "url": "https://online.vtb24.ru/", 
+    "checked": true, 
+    "name": "ВТБ 24"
+  }, 
+  {
+    "url": "https://cabinet.rshb.ru/", 
+    "checked": true, 
+    "name": "Россельхозбанк"
+  }, 
+  {
+    "url": "https://online.open.ru/logon", 
+    "checked": true, 
+    "name": "ФК Открытие"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Национальный Клиринговый Центр"
+  }, 
+  {
+    "url": "https://click.alfabank.ru/", 
+    "checked": true, 
+    "name": "Альфа-Банк"
+  }, 
+  {
+    "url": "https://online.mkb.ru/", 
+    "checked": true, 
+    "name": "Московский Кредитный Банк"
+  }, 
+  {
+    "url": "https://ib.psbank.ru", 
+    "checked": true, 
+    "name": "Промсвязьбанк"
+  }, 
+  {
+    "url": "https://enter.unicredit.ru/v2/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "ЮниКредит Банк"
+  }, 
+  {
+    "url": "https://online.binbank.ru/", 
+    "checked": true, 
+    "name": "Бинбанк"
+  }, 
+  {
+    "url": "https://connect.raiffeisen.ru/", 
+    "checked": true, 
+    "name": "Райффайзенбанк"
+  }, 
+  {
+    "url": "https://ibank.rosbank.ru/Login.aspx", 
+    "checked": true, 
+    "name": "Росбанк"
+  }, 
+  {
+    "url": "https://i.abr.ru/", 
+    "checked": true, 
+    "name": "Россия"
+  }, 
+  {
+    "url": "https://online.bm.ru/", 
+    "checked": true, 
+    "name": "БМ-Банк (бывш. Банк Москвы)"
+  }, 
+  {
+    "url": null, 
+    "checked": true, 
+    "name": "Рост Банк"
+  }, 
+  {
+    "url": "https://i.bspb.ru/", 
+    "checked": true, 
+    "name": "Банк «Санкт-Петербург»"
+  }, 
+  {
+    "url": "https://elf.sovcombank.ru/elf/app/", 
+    "checked": true, 
+    "name": "Совкомбанк"
+  }, 
+  {
+    "url": "https://pb1.vbrr.ru/v1/cgi/bsi.dll", 
+    "checked": true, 
+    "name": "Всероссийский Банк Развития Регионов"
+  } 
+]}
