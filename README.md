@@ -48,7 +48,7 @@ Format of targets list:
 
 ## Example
 - Check that docker daemon is running
-- Copy files from **_examples_** directory to the tool's directory
+- Copy files from one of the **_examples_** subdirectories to the tool's directory
 - Run tool:
 ```
 python crawler.py --filters filters.txt targets.json
