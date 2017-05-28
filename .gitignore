@@ -9,7 +9,6 @@
 #Exclude python enviroment
 .env/
 #Exception for examples directory
-!examples/*
-!examples/for_banks/*
+!examples/**/*
 #Exception for requirements
 !requirements.txt
